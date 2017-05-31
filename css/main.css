@@ -1,0 +1,13 @@
+.carousel-content {
+  display: none;
+}
+
+.carousel-content.active {
+  display: block;
+}
+
+.carousel, .controls{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
