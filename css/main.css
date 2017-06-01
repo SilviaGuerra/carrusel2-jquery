@@ -1,3 +1,27 @@
+*{
+  background: #F1A1D0;
+}
+
+header{
+  font-size: 36px;
+  text-align: center;
+  padding-top: 45px;
+  color: #914EB9;
+}
+
+.image{
+  border: 20px solid white;
+  margin-top: 40px;
+}
+
+.btn{
+  margin: 5px;
+}
+
+.controls{
+  padding-top: 20px;
+}
+
 .carousel-content {
   display: none;
 }
